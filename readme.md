@@ -1,5 +1,5 @@
 # BHP
-## http://ec2-65-0-17-97.ap-south-1.compute.amazonaws.com/
+## http://ec2-13-126-0-127.ap-south-1.compute.amazonaws.com/
 
 ![](BHP.png)
 
