@@ -30,3 +30,10 @@ if __name__ == "__main__":
     print("Starting Python Flask Server For Home Price Prediction...")
     util.load_saved_artifacts()
     app.run()
+    
+def post_worker_init(worker):
+    import get_location_names from server
+    import predict_home_price from server
+    print("Starting Python Flask Server For Home Price Prediction...")
+    util.load_saved_artifacts()
+    app.run()
