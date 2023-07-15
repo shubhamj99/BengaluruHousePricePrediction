@@ -1,5 +1,7 @@
 # BHP
-## http://ec2-13-126-0-127.ap-south-1.compute.amazonaws.com/
+## To Run:
+1. Download the client folder.
+2. Open app.html as a webpage in Google Chrome or Safari.
 
 ![](BHP.png)
 
