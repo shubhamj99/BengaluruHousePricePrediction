@@ -2,7 +2,9 @@
 ## To Run:
 1. Download the client folder.
 2. Open app.html as a webpage in Google Chrome or Safari.
+
 OR
+
 Visit https://bhpclient.onrender.com/
 
 ![](BHP.png)
